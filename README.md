@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apoorvsrivastava270
-- 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Web Development and Machine Learning
-- 💞️ I’m looking to collaborate on Web Development and Machine Learning
+- 👀 I’m interested in Web Development and Java
+- 🌱 I’m currently learning Web Development and Java
+- 💞️ I’m looking to collaborate on Web Development and Java
 - 📫 How to reach me Email: apoorva.shanu@gmail.com
 
 <!---
